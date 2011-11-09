@@ -1,0 +1,122 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="F5DB39A5-1CFB-4830-941C-82C3812EB6B9/d:Standard/f:Utilities.cs" caret="13540" fromTop="16" />
+      <File id="F5DB39A5-1CFB-4830-941C-82C3812EB6B9/d:Standard/f:ShellProvider.cs" caret="1497" fromTop="16" />
+      <File id="F5DB39A5-1CFB-4830-941C-82C3812EB6B9/f:EaglePackage.cs" caret="342" fromTop="11" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="F5DB39A5-1CFB-4830-941C-82C3812EB6B9/f:EaglePackage.cs" caret="2242" fromTop="16" />
+      <File id="F5DB39A5-1CFB-4830-941C-82C3812EB6B9/f:EaglePackage.cs" caret="1550" fromTop="20" />
+      <File id="F5DB39A5-1CFB-4830-941C-82C3812EB6B9/f:EaglePackage.cs" caret="4410" fromTop="17" />
+      <File id="F5DB39A5-1CFB-4830-941C-82C3812EB6B9/f:EaglePackage.cs" caret="4410" fromTop="19" />
+      <File id="F5DB39A5-1CFB-4830-941C-82C3812EB6B9/f:EaglePackage.cs" caret="4294" fromTop="28" />
+      <File id="F5DB39A5-1CFB-4830-941C-82C3812EB6B9/f:EaglePackage.cs" caret="4297" fromTop="26" />
+      <File id="F5DB39A5-1CFB-4830-941C-82C3812EB6B9/f:EaglePackage.cs" caret="3833" fromTop="11" />
+      <File id="F5DB39A5-1CFB-4830-941C-82C3812EB6B9/f:EaglePackage.cs" caret="4162" fromTop="20" />
+      <File id="F5DB39A5-1CFB-4830-941C-82C3812EB6B9/f:EaglePackage.cs" caret="4504" fromTop="27" />
+      <File id="F5DB39A5-1CFB-4830-941C-82C3812EB6B9/d:Standard/f:Utilities.cs" caret="1001" fromTop="19" />
+      <File id="F5DB39A5-1CFB-4830-941C-82C3812EB6B9/f:EaglePackage.cs" caret="3165" fromTop="1" />
+      <File id="F5DB39A5-1CFB-4830-941C-82C3812EB6B9/f:EaglePackage.cs" caret="3376" fromTop="8" />
+      <File id="F5DB39A5-1CFB-4830-941C-82C3812EB6B9/f:EaglePackage.cs" caret="3468" fromTop="11" />
+      <File id="F5DB39A5-1CFB-4830-941C-82C3812EB6B9/f:EaglePackage.cs" caret="342" fromTop="11" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="EnvDTE" priority="31" />
+      <Item value="DTE`0" priority="58" />
+      <Item value="d" priority="31" />
+      <Item value="dte" priority="223" />
+      <Item value="Package`0" priority="31" />
+      <Item value="typeof" priority="31" />
+      <Item value="private" priority="63" />
+      <Item value="void" priority="63" />
+      <Item value="vsBuildScope`0" priority="31" />
+      <Item value="vsBuildAction`0" priority="127" />
+      <Item value="action" priority="63" />
+      <Item value="new" priority="63" />
+      <Item value="TaskbarItemInfo" priority="28" />
+      <Item value="Indeterminate" priority="16" />
+      <Item value="t" priority="159" />
+      <Item value="PackageUtilities`0" priority="31" />
+      <Item value="ProvideAutoLoad" priority="31" />
+      <Item value="UIContextGuids`0" priority="31" />
+      <Item value="ITaskbarList3`0" priority="31" />
+      <Item value="InitializeTaskbarList`0" priority="31" />
+      <Item value="taskbarList" priority="127" />
+      <Item value="tempTaskbarList" priority="31" />
+      <Item value="IntPtr" priority="28" />
+      <Item value="TBPF`0" priority="95" />
+      <Item value="buildInfo" priority="31" />
+      <Item value="buildState" priority="31" />
+      <Item value="failuresCount" priority="63" />
+      <Item value="var" priority="31" />
+      <Item value="mainWnd" priority="63" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:EnvDTE.DTE">
+      <Item value="Solution" priority="80" />
+      <Item value="StatusBar" priority="26" />
+      <Item value="Events" priority="80" />
+      <Item value="MainWindow" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:EnvDTE.Solution">
+      <Item value="SolutionBuild" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:EnvDTE.Events">
+      <Item value="BuildEvents" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:EnvDTE.BuildEvents">
+      <Item value="OnBuildBegin" priority="53" />
+      <Item value="OnBuildDone" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.VisualStudio.Shell.Package">
+      <Item value="GetGlobalService`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Windows.Shell.TaskbarItemInfo">
+      <Item value="ProgressState" priority="26" />
+      <Item value="ProgressValue" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.VisualStudio.Shell.Interop.UIContextGuids">
+      <Item value="SolutionExists" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Windows.Shell.TaskbarItemProgressState">
+      <Item value="Error" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Standard.ITaskbarList3">
+      <Item value="SetProgressState`0" priority="53" />
+      <Item value="SetProgressValue`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:EnvDTE.Window">
+      <Item value="HWnd" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Standard.TBPF">
+      <Item value="INDETERMINATE" priority="26" />
+      <Item value="NORMAL" priority="80" />
+      <Item value="ERROR" priority="26" />
+      <Item value="NOPROGRESS" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:EnvDTE.SolutionBuild">
+      <Item value="LastBuildInfo" priority="53" />
+      <Item value="BuildState" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>

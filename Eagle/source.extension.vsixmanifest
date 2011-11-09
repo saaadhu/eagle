@@ -1,11 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Vsix Version="1.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2010">
+<Vsix xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="1.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2010">
   <Identifier Id="4216293a-83e5-4341-8bfb-c4e40928a4b6">
     <Name>Eagle</Name>
     <Author>Senthil Kumar Selvaraj</Author>
-    <Version>1.0</Version>
+    <Version>0.1</Version>
     <Description xml:space="preserve">Displays build status in an unobtrusive yet visible manner.</Description>
     <Locale>1033</Locale>
+    <License>LICENSE.TXT</License>
+    <Icon>eagle.jpg</Icon>
     <InstalledByMsi>false</InstalledByMsi>
     <SupportedProducts>
       <VisualStudio Version="10.0">
@@ -14,11 +16,7 @@
     </SupportedProducts>
     <SupportedFrameworkRuntimeEdition MinVersion="4.0" MaxVersion="4.0" />
   </Identifier>
-  <References>
-        <Reference Id="Microsoft.VisualStudio.MPF" MinVersion="10.0">
-            <Name>Visual Studio MPF</Name>
-        </Reference>
-  </References>
+  <References />
   <Content>
     <VsPackage>|%CurrentProject%;PkgdefProjectOutputGroup|</VsPackage>
   </Content>
